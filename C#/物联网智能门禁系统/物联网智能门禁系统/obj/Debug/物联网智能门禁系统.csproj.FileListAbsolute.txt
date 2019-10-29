@@ -1,0 +1,126 @@
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.pdb
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe
+c:\users\admin\documents\visual studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.g.cs
+C:\Users\admin\Documents\Visual Studio 2015\Projects\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.baml
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.g.cs
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\select.g.cs
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\setting.g.cs
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_Content.g.cs
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.cache
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.lref
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.baml
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\select.baml
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\setting.baml
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.g.resources
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.Properties.Resources.resources
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.pdb
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.config
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.manifest
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.application
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.pdb
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\MWRDemoDll.dll
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe.manifest
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.application
+C:\Users\admin\Desktop\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csprojResolveAssemblyReference.cache
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.config
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.manifest
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.application
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.pdb
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\MWRDemoDll.dll
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csprojAssemblyReference.cache
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.g.cs
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.g.cs
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\select.g.cs
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\setting.g.cs
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\App.g.cs
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_Content.g.cs
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.cache
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.lref
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.baml
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.baml
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\select.baml
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\setting.baml
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.g.resources
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.Properties.Resources.resources
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.GenerateResource.cache
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.CoreCompileInputs.cache
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe.manifest
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.application
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.CopyComplete
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe
+G:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.pdb
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.config
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.manifest
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.application
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.pdb
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\MWRDemoDll.dll
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csprojAssemblyReference.cache
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.g.cs
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.g.cs
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\select.g.cs
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\setting.g.cs
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\App.g.cs
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_Content.g.cs
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.cache
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.lref
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.baml
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.baml
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\select.baml
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\setting.baml
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.g.resources
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.Properties.Resources.resources
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.GenerateResource.cache
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.CoreCompileInputs.cache
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe.manifest
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.application
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.CopyComplete
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe
+H:\基于高频读写器的物联网门禁系统\C#端源码\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.pdb
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.config
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe.manifest
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.application
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.exe
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\物联网智能门禁系统.pdb
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\bin\Debug\MWRDemoDll.dll
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csprojAssemblyReference.cache
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.g.cs
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.g.cs
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\select.g.cs
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\setting.g.cs
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\App.g.cs
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_Content.g.cs
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.cache
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统_MarkupCompile.lref
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\Main.baml
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\MainWindow.baml
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\select.baml
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\setting.baml
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.g.resources
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.Properties.Resources.resources
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.GenerateResource.cache
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.CoreCompileInputs.cache
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe.manifest
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.application
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.csproj.CopyComplete
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.exe
+D:\project\C#\物联网智能门禁系统\物联网智能门禁系统\obj\Debug\物联网智能门禁系统.pdb
